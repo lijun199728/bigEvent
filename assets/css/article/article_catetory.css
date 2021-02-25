@@ -1,0 +1,26 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 15px;
+    background-color: #f2f3f5;
+}
+
+#addbtn {
+    display: inline-block;
+    float: right;
+    margin-top: 7px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 12px;
+    padding: 0 10px;
+}
+
+#form-add,
+#form-edit {
+    padding-top: 20px;
+    padding-right: 30px;
+}
